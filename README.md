@@ -15,5 +15,10 @@ npx create-react-app client
 mkdir posts
 cd posts
 npm init -y
+npm install express cors axios nodemon
 
+mkdir comments
+cd comments
+npm init -y
+npm install express cors axios nodemon
 ```
