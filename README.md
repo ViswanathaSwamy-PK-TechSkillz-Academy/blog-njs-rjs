@@ -16,11 +16,13 @@ mkdir posts
 cd posts
 npm init -y
 npm install express cors axios nodemon
+npm install cors
 
 mkdir comments
 cd comments
 npm init -y
 npm install express cors axios nodemon
+npm install cors
 
 cd client
 npm install axios
