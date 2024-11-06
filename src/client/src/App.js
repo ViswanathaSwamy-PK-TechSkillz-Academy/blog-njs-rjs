@@ -1,6 +1,6 @@
 import './App.css';
-import PostCreate from "./PostCreate";
-import PostList from "./PostList";
+import PostCreate from "./Posts/PostCreate";
+import PostList from "./Posts/PostList";
 
 const App = () => {
   return (
