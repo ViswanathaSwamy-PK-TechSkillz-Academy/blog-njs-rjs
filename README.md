@@ -26,4 +26,9 @@ npm install cors
 
 cd client
 npm install axios
+
+mkdir event-bus
+cd event-bus
+npm init -y
+npm install express nodemon axios 
 ```
